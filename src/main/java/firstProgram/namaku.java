@@ -9,4 +9,8 @@ public class namaku {
     public static void Indah(){
         System.out.println("My Name is Astrit");
     }
+
+    public static void Samsu(){
+        System.out.println("My Name is Samsu");
+    }
 }
